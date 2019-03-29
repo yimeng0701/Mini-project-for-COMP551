@@ -1,19 +1,24 @@
+
 # Team  - 404NotFound
+
+Description
+------------
+This is the code for the mini project of COMP551 (Applied machine learning) @ McGill University. The project is about largest digit recognition. Details could be found in the report.
+
+Rank 11/115 @kaggle 
 
 Team Members
 ------------
 
 @author Ibtihel Amara
 @email  ibtihel.amara@mail.mcgill.ca
-@id     260819506
 
 @author Sunanda Bansal
 @email  sunanda.bansal@mail.mcgill.ca
-@id     260775958
 
 @author Yimeng Wu
 @email  yimeng.wu@mail.mcgill.ca
-@id     260788916
+
 
 IMPORTANT
 ---------
